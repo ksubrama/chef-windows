@@ -1,5 +1,6 @@
+*.pem
+
 .vagrant
-/cookbooks
 
 # Bundler
 bin/*
